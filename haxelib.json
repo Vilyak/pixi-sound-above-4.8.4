@@ -18,7 +18,7 @@
 	],
 	"releasenote": "Initial release",
 	"version": "3.0.4",
-	"url": "https://github.com/gfcrba/pixi-sound.hx",
+	"url": "https://github.com/Vilyak/newPixi-sounds",
 	"dependencies": {
 		"pixijs": "5.1.2"
 	}

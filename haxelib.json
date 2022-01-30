@@ -18,7 +18,7 @@
 	],
 	"releasenote": "Initial release",
 	"version": "3.0.4",
-	"url": "https://github.com/Vilyak/newPixi-sounds",
+	"url": "https://github.com/Vilyak/pixi-sound-with-support-above-4.8.4",
 	"dependencies": {
 		"pixijs": "4.8.4"
 	}
